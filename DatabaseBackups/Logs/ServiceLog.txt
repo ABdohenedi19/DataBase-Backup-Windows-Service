@@ -1,0 +1,36 @@
+[2025-08-28 01:11:07] Service Started.
+[2025-08-28 01:11:07] Backup schedule initiated: every 1 minute(s).
+[2025-08-28 01:11:07] Database backup successful: C:\DatabaseBackups\Backup_20250828_011107.bak
+[2025-08-28 01:12:07] Database backup successful: C:\DatabaseBackups\Backup_20250828_011207.bak
+[2025-09-07 23:12:31] Service Started.
+[2025-09-07 23:12:31] Backup schedule initiated: every 1 minute(s).
+[2025-09-07 23:12:31] Database backup successful: C:\DatabaseBackups\Backup_20250907_231231.bak
+[2025-09-07 23:13:31] Database backup successful: C:\DatabaseBackups\Backup_20250907_231331.bak
+[2025-09-07 23:20:20] Service Started.
+[2025-09-07 23:20:20] Backup schedule initiated: every 1 minute(s).
+[2025-09-07 23:20:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:21:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:22:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:23:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:24:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:25:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:26:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:27:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:28:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:29:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:30:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:31:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+[2025-09-07 23:32:30] Error during backup: Cannot open database "StudentsDB" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
